@@ -1,0 +1,54 @@
+.nav_item a{
+ 
+    color:black;
+  
+  }
+
+  .nav_container{
+      display: inline-block;
+      display: flex;
+  }
+  .wowslider-container1 {
+      z-index:0;
+  }
+  
+  .container-overflow{
+      position: relative;
+  }
+
+
+  .mask{
+      position:absolute;
+      top:80px;
+      width:100%;
+      left:0;
+      z-index:999;
+  }
+  .move_top{
+      position: absolute;
+      width:100%;
+      top:80px;
+      z-index:999;
+  }
+  
+  .hotkeys-list li a{
+      color:black;
+      
+  }
+
+  .card-reveal span{
+    color:navy;
+  }
+  
+  .card-reveal div{
+    width:100%;
+    color:black;
+    margin: 10px;
+}
+
+.card-reveal div:{
+  
+    margin-left: 10px;
+}
+
+  
